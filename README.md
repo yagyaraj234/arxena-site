@@ -21,7 +21,7 @@ npm run dev
 
 ## Other way 
 
-I have created a new file in base directory name called server which point to the dist directory in arxena directory 
+I have created a new file in base directory name called `newserver.py` which point to the dist directory in arxena directory 
 
 Which is a build file of a react appliaction.
 
